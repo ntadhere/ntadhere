@@ -1,6 +1,6 @@
 # Hello, I'm Dorothy! 👩‍💻
 
-Junior Full-Stack Developer with experience in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, Express, and MySQL.
+Junior College Full-Stack Developer with experience in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, Express, and MySQL.
 
 - Building and maintaining websites using various CMS platforms.
 - Developing e-commerce sites and web applications.
