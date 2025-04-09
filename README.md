@@ -11,7 +11,7 @@ Check out my portfolio, which includes projects like:
 
 - **[CASEHONG - Ecommerce Website](https://github.com/ntadhere/CASEHONG)** (Odoo)
 - **[E1CARDIO - Portfolio Website](https://e1cardio.com/trang-chu/)** (WordPress, Divi)
-- **[MOSS - Showcase Website](https://github.com/ntadhere/95Hommies)** (React, TypeScript)
+- **[MOSS - Showcase Website](https://github.com/ntadhere/95Moss)** (Next.js, React, TypeScript, MongoDB)
 - **[Minesweeper Web App](https://github.com/ntadhere/CST350_Milestone)** (C#, .NET, MSSQL)
 - **[Backend Game Arena](https://github.com/ntadhere/CST239_Milestone)** (Java)
 - **[Music API](https://github.com/ntadhere/CST391_MusicAPI)** (TypeScript)
