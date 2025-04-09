@@ -9,9 +9,9 @@ Junior College Full-Stack Developer with experience in front-end and back-end te
 ## 📚 Projects
 Check out my portfolio, which includes projects like:
 
-- **[CaseHong Ecommerce Website](https://github.com/ntadhere/CASEHONG)** (Odoo)
-- **[E1Cardio Portfolio Website](https://e1cardio.com/trang-chu/)** (WordPress, Divi)
-- **[Hommies Showcase Website](https://github.com/ntadhere/95Hommies)** (React, TypeScript)
+- **[CASEHONG - Ecommerce Website](https://github.com/ntadhere/CASEHONG)** (Odoo)
+- **[E1CARDIO - Portfolio Website](https://e1cardio.com/trang-chu/)** (WordPress, Divi)
+- **[MOSS - Showcase Website](https://github.com/ntadhere/95Hommies)** (React, TypeScript)
 - **[Minesweeper Web App](https://github.com/ntadhere/CST350_Milestone)** (C#, .NET, MSSQL)
 - **[Backend Game Arena](https://github.com/ntadhere/CST239_Milestone)** (Java)
 - **[Music API](https://github.com/ntadhere/CST391_MusicAPI)** (TypeScript)
