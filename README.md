@@ -20,7 +20,7 @@ Check out my portfolio, which includes projects like:
 
 ## 🛠️ Tools  
 - **Languages:** HTML, CSS, JavaScript, Node.js, MySQL, React, TypeScript, Java, C#, Python  
-- **Frameworks:** Express, .NET, Angular  
+- **Frameworks:** Express, .NET, Angular (Specify any framworks or libraries you use)
 - **Database:** MySQL, MSSQL, MongoDB
 
 ## 👋🏻 Connect with Me  
