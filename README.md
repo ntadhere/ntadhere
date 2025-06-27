@@ -10,7 +10,7 @@ Senior College Full-Stack Developer Student with experience in front-end and bac
 Check out my portfolio, which includes projects like:
 
 - **[TEMPO TUNES - Music Management Platform](https://tempotunes-ezgxenenf5fnc4aj.westus-01.azurewebsites.net/)** (C#, .NET, MongoDB, Azure)
-- **[TravelBros - Portfolio Website](https://travel-bros.webflow.io/travel-bros)** (Webflow)
+- **[Travel Bros - Portfolio Website](https://travel-bros.webflow.io/travel-bros)** (Webflow)
 - **[Attune-iN - Portfolio Website](https://attune-in.com/)** (WordPress, Elementor)
 - **[Minesweeper Web App](https://github.com/ntadhere/CST350_Milestone)** (C#, .NET, MSSQL)
 - **[Backend Game Arena](https://github.com/ntadhere/CST239_Milestone)** (Java)
